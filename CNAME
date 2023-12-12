@@ -1,0 +1,2 @@
+measly-laugh.surge.sh
+surge -p dist -d measly-laugh.surge.sh
