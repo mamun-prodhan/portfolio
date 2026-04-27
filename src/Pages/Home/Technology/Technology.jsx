@@ -38,7 +38,7 @@ const technologies = [
 
 const Technology = () => {
   return (
-    <div className="text-black hero bg-base-200 mt-8 md:mt-10 lg:mt-16 mb-16 md:p-8 sm:text-center md:text-center lg:text-left rounded-xl">
+    <div className="text-black hero bg-base-200 mt-8 md:mt-10 lg:mt-16 md:p-8 sm:text-center md:text-center lg:text-left rounded-xl">
       <div className="hero-content flex-col gap-10 lg:gap-16 lg:flex-row-reverse justify-center items-center">
         
         <img

@@ -11,7 +11,7 @@ const MyProjects = () => {
   }, []);
 
   return (
-    <div className="mb-8 bg-white py-10 text-black">
+    <div className=" bg-white py-10 text-black">
       <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-center my-8">
         Projects
       </h1>
