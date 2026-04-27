@@ -30,7 +30,7 @@ const Header = () => {
   return (
     <div className="navbar px-0 bg-base-100 sticky top-0 z-50 bg-white/60 backdrop-blur">
       <div className="flex items-center justify-between max-w-[1280px] px-0 md:px-5 mx-auto w-full">
-        <div className="navbar-start z-[1000] flex items-center">
+        <div className="navbar-start z-[1000] flex items-center w-full">
           <div className="dropdown">
             <label tabIndex={0} className="btn btn-ghost lg:hidden">
               <svg
