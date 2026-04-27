@@ -20,6 +20,11 @@ const Header = () => {
         </Link>
       </li>
       <li>
+        <Link className="text-[#570DF8] font-medium" to="experience" smooth={true} duration={1000}>
+          Experience
+        </Link>
+      </li>
+      <li>
         <Link className="text-[#570DF8] font-medium" to="contact" smooth={true} duration={1500}>
           Contact
         </Link>

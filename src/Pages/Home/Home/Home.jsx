@@ -5,6 +5,7 @@ import Contact from "../Contact/Contact";
 // import Skills from "../Skills/Skills";
 import Technology from "../Technology/Technology";
 import { Element } from "react-scroll";
+import EducationExperience from "../EducationExperience/EducationExperience";
 
 const Home = () => {
   return (
@@ -21,6 +22,10 @@ const Home = () => {
         <MyProjects></MyProjects>
       </Element>
 
+      {/* Education and Experience */}
+      <Element name="experience">
+        <EducationExperience></EducationExperience>
+      </Element>
       <Element name="contact">
         <Contact></Contact>
       </Element>
