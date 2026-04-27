@@ -1,2 +1,3 @@
 my-portfolio-mamun.surge.sh
-surge -p dist -d my-portfolio-mamun.surge.sh
+surge -p dist -d mamun-prodhan-portfolio2026.surge.sh
+https://mamun-prodhans-portfolio.netlify.app/

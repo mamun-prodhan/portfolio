@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import { FaFacebookSquare, FaGithubSquare, FaLinkedin } from "react-icons/fa";
 
 const Footer = () => {
@@ -31,7 +30,7 @@ const Footer = () => {
         </div>
       </div>
       <div>
-        <p>Copyright © 2023 - All right reserved by Mamun Prodhan</p>
+        <p>Copyright © {new Date().getFullYear()} - All rights reserved by Mamun Prodhan</p>
       </div>
     </footer>
   );
