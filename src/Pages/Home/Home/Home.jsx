@@ -8,7 +8,7 @@ import { Element } from "react-scroll";
 
 const Home = () => {
   return (
-    <div>
+    <div className="max-w-[1280px] w-full mx-auto px-5">
       <Element name="home">
         <Banner></Banner>
       </Element>
