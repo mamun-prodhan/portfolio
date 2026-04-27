@@ -1,2 +1,2 @@
-measly-laugh.surge.sh
-surge -p dist -d measly-laugh.surge.sh
+my-portfolio-mamun.surge.sh
+surge -p dist -d my-portfolio-mamun.surge.sh

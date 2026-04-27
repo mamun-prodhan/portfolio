@@ -1,27 +1,26 @@
 import React from "react";
-// import { Link } from "react-router-dom";
 import { Link, animateScroll as scroll } from "react-scroll";
 
 const Header = () => {
   const menuItems = (
     <>
       <li>
-        <Link to="home" smooth={true} duration={500}>
+        <Link  className="text-[#570DF8]" to="home" smooth={true} duration={500}>
           Home
         </Link>
       </li>
       <li>
-        <Link to="skills" smooth={true} duration={1000}>
+        <Link className="text-[#570DF8]" to="skills" smooth={true} duration={1000}>
           My Skills
         </Link>
       </li>
       <li>
-        <Link to="projects" smooth={true} duration={1000}>
+        <Link className="text-[#570DF8]" to="projects" smooth={true} duration={1000}>
           Projects
         </Link>
       </li>
       <li>
-        <Link to="contact" smooth={true} duration={1500}>
+        <Link className="text-[#570DF8]" to="contact" smooth={true} duration={1500}>
           Contact
         </Link>
       </li>
@@ -29,7 +28,7 @@ const Header = () => {
   );
 
   return (
-    <div className="navbar bg-base-100 ">
+    <div className="navbar bg-base-100 sticky top-0 z-50 bg-white/60 backdrop-blur">
       <div className="navbar-start z-[1000]">
         <div className="dropdown">
           <label tabIndex={0} className="btn btn-ghost lg:hidden">
@@ -62,8 +61,8 @@ const Header = () => {
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1">{menuItems}</ul>
       </div>
-      <div className="navbar-end hidden lg:inline-block">
-        <a href="https://drive.google.com/uc?id=1XHLpgREdi-UeIWDCt-7EN9CB5rzPl1LV">
+      <div className="navbar-end hidden lg:flex items-center justify-end">
+        <a className="text-[#570DF8] py-2 px-4 rounded-md border border-transparent hover:border-[#747bff] duration-200" href="https://drive.google.com/uc?id=1XHLpgREdi-UeIWDCt-7EN9CB5rzPl1LV">
           Download Resume
         </a>
       </div>
