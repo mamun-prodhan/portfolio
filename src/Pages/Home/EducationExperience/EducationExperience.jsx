@@ -16,7 +16,7 @@ const experienceData = [
     place: "Linno (formerly Code Rex)",
     date: "Jan 2024 - Oct 2025",
     description:
-      "Building scalable React applications and improving UI/UX performance.",
+      "At Linno, I developed WooCommerce plugins and marketing automation tools like MailMint and WPFunnels, contributing to complex systems including email builders, automation workflows, and dynamic dashboards—focused on performance, clean UI/UX, and maintainable code.",
   }
 ];
 
