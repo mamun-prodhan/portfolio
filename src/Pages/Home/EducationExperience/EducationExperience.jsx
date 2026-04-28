@@ -6,7 +6,7 @@ const educationData = [
     place: "City University",
     date: "2018 - 2022",
     description:
-      "Focused on software engineering, data structures, and web development.",
+      "Dhaka, Bangladesh",
   },
 ];
 
@@ -33,9 +33,9 @@ const Timeline = ({ data }) => {
 
           <h3 className="text-xl font-semibold">{item.title}</h3>
 
-          <p className="text-gray">{item.place}</p>
+          <p className="mt-1 text-gray text-black/70 font-semibold">{item.place}</p>
 
-          <p className="mt-2 text-gray text-sm leading-relaxed">
+          <p className="mt-1 text-black/70 text-sm leading-relaxed">
             {item.description}
           </p>
         </div>
@@ -46,7 +46,7 @@ const Timeline = ({ data }) => {
 
 const EducationExperience = () => {
   return (
-    <section className="bg-base-200 rounded-xl text-black/85 pt-10 pb-1 md:py-12 lg:py-16 xl:py-20 px-4 md:px-10">
+    <section className="bg-base-200 rounded-xl text-black/85 pt-10 pb-1 md:py-12 lg:py-16 xl:py-20 px-4 md:px-10 mt-0 md:mt-8">
       <div className="max-w-6xl mx-auto space-y-10 md:space-y-16 lg:space-y-20">
         
         {/* EDUCATION */}

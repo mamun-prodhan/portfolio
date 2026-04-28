@@ -4,7 +4,7 @@
     "title": "Blood Heros",
     "image": "https://i.ibb.co.com/pjj1X67y/bloodheros-img-croped.png",
     "url": "https://bloodheros-b8-a12.web.app/",
-    "description": "It's a multi-role blood donation website",
+    "description": "A Fullstack Multi-role Blood Donation Website",
     "technology": ["Tailwind CSS", "React.js","Context API", "Firebase", "Express.js", "MongoDB", "Tanstack Query"]
   },
   {
@@ -12,7 +12,7 @@
     "title": "FoodBuzz",
     "image": "https://i.ibb.co/1zNc8F9/blog.png",
     "url": "https://blog-b8a11.web.app/",
-    "description": "A Blog Website for food lover",
+    "description": "A Fullstack Blog Website for Food Lovers",
     "technology": ["Tailwind CSS", "React.js", "Context API", "Express.js", "MongoDB", "Firebase", "Tanstack Query", "Axios"]
   },
   {
@@ -20,7 +20,7 @@
     "title": "Brand Shop",
     "image": "https://i.ibb.co.com/3mRDKwDZ/brand-shop-img.png",
     "url": "https://brand-shop-a-10.web.app/",
-    "description": "A Blog Website for food lover",
+    "description": "An Online Brand Shop",
     "technology": ["Tailwind CSS", "Daisy UI", "React.js","Context API", "MongoDB", "Firebase", "Express.js"]
   },
   {

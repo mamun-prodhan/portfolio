@@ -15,10 +15,13 @@ const MyProjectCard = ({ project }) => {
       <div className="card-body">
         <h2 className="card-title text-start">{title}</h2>
         <p className="text-start">{description}</p>
+        <div>
+          <p className="mb-1 font-semibold">Technology :</p>
         <div className="flex gap-[5px] items-center flex-wrap">
           {
             technology.map((tech, idx) => (<span key={idx} className=" text-xs  px-[6px] text-[#570DF8]/70 font-medium py-[2px] border border-[#570DF8]/70 rounded-md">{tech}</span>))
           }
+        </div>
         </div>
         <div className="card-actions justify-start mt-2">
           <a className="inline-block bg-[#570DF8] border border-transparent hover:border-[#570DF8] duration-300 hover:bg-transparent text-white hover:text-[#570DF8] font-semibold px-4 py-2 rounded-lg" href={url} target="_blank" rel="noopener noreferrer">
