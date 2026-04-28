@@ -4,55 +4,63 @@
     "title": "Blood Heros",
     "image": "https://i.ibb.co.com/pjj1X67y/bloodheros-img-croped.png",
     "url": "https://bloodheros-b8-a12.web.app/",
-    "description": "It's a multi-role blood donation website"
-  },
-  {
-    "id": "01",
-    "title": "FoodBuzz",
-    "image": "https://i.ibb.co/1zNc8F9/blog.png",
-    "url": "https://blog-b8a11.web.app/",
-    "description": "A Blog Website for food lover"
-  },
-  {
-    "id": "01",
-    "title": "Brand Shop",
-    "image": "https://i.ibb.co.com/3mRDKwDZ/brand-shop-img.png",
-    "url": "https://blog-b8a11.web.app/",
-    "description": "A Blog Website for food lover"
+    "description": "It's a multi-role blood donation website",
+    "technology": ["Tailwind CSS", "React.js","Context API", "Firebase", "Express.js", "MongoDB", "Tanstack Query"]
   },
   {
     "id": "02",
-    "title": "Igardu Platform for Security",
-    "image": "https://i.ibb.co/qWkP693/3.png",
-    "url": "https://ambiguous-development.surge.sh/",
-    "description": "Security Guard hiring website."
+    "title": "FoodBuzz",
+    "image": "https://i.ibb.co/1zNc8F9/blog.png",
+    "url": "https://blog-b8a11.web.app/",
+    "description": "A Blog Website for food lover",
+    "technology": ["Tailwind CSS", "React.js", "Context API", "Express.js", "MongoDB", "Firebase", "Tanstack Query", "Axios"]
   },
   {
     "id": "03",
-    "title": "DevTech",
-    "image": "https://i.ibb.co/xmYz2Lg/2.jpg",
-    "url": "https://assignment-10-62634.web.app/",
-    "description": "An Online Educational Platform for students."
+    "title": "Brand Shop",
+    "image": "https://i.ibb.co.com/3mRDKwDZ/brand-shop-img.png",
+    "url": "https://brand-shop-a-10.web.app/",
+    "description": "A Blog Website for food lover",
+    "technology": ["Tailwind CSS", "Daisy UI", "React.js","Context API", "MongoDB", "Firebase", "Express.js"]
   },
   {
     "id": "04",
-    "title": "Quiz Master",
-    "image": "https://i.ibb.co/ByY0TBF/4.jpg",
-    "url": "https://zingy-druid-7dc8bf.netlify.app/",
-    "description": "Quiz website for students"
+    "title": "Igardu Platform for Security",
+    "image": "https://i.ibb.co/qWkP693/3.png",
+    "url": "https://ambiguous-development.surge.sh/",
+    "description": "Security Guard hiring website.",
+    "technology": ["Tailwind CSS", "React.js"]
   },
   {
     "id": "05",
-    "title": "Maurice Andrews Solicitors",
-    "image": "https://i.ibb.co/DDynKrz/5.png",
-    "url": "https://scintillating-hamster-731132.netlify.app/",
-    "description": "Online law consultancy website"
+    "title": "DevTech",
+    "image": "https://i.ibb.co/xmYz2Lg/2.jpg",
+    "url": "https://assignment-10-62634.web.app/",
+    "description": "An Online Educational Platform for students.",
+    "technology": ["Tailwind CSS", "React.js", "Context API", "Firebase"]
   },
   {
     "id": "06",
+    "title": "Quiz Master",
+    "image": "https://i.ibb.co/ByY0TBF/4.jpg",
+    "url": "https://zingy-druid-7dc8bf.netlify.app/",
+    "description": "Quiz website for students",
+    "technology": ["Tailwind CSS", "React.js"]
+  },
+  {
+    "id": "07",
+    "title": "Maurice Andrews Solicitors",
+    "image": "https://i.ibb.co/DDynKrz/5.png",
+    "url": "https://scintillating-hamster-731132.netlify.app/",
+    "description": "Online law consultancy website",
+    "technology": ["Tailwind CSS", "React.js"]
+  },
+  {
+    "id": "08",
     "title": "Dashboard",
     "image": "https://i.ibb.co/RpYc7Jv/6.png",
     "url": "https://startling-bienenstitch-0b8f7c.netlify.app/dashbord",
-    "description": "Website dashboard"
+    "description": "Website dashboard",
+    "technology": ["Tailwind CSS", "React.js"]
   }
 ]
