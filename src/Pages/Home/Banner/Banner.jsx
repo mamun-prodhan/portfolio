@@ -19,7 +19,7 @@ const Banner = () => {
             Front End Developer
           </h2>
           <p className="py-6 text-start">
-            With <span className="font-semibold text-[#570DF8]">1.5+ years</span> of experience building scalable web applications using TypeScript, React.js and modern JavaScript.
+            With <span className="font-semibold text-[#570DF8]">1.5+ years</span> of experience building scalable web applications using <span className="font-semibold">TypeScript</span>, <span className="font-semibold">React.js</span>, <span className="font-semibold">Next.js</span> and <span className="font-semibold">Modern JavaScript</span>.
             <br></br>
             <span className="inline-block mt-3">At <a className="text-[#570DF8]" href="https://linno.io/" rel="noreferrer" target="_blank">Linno</a> (formerly <a className="text-[#570DF8]" href="https://www.coderex.co/" rel="noreferrer" target="_blank">CodeRex</a>), I worked on WooCommerce plugins and marketing automation tools like <a className="text-[#570DF8]" href="https://getwpfunnels.com/email-marketing-automation-mail-mint/" rel="noreferrer" target="_blank">MailMint</a> and <a className="text-[#570DF8]" href="https://getwpfunnels.com/wordpress-funnel-builder-wpfunnels/" rel="noreferrer" target="_blank">WPFunnels</a>. I contributed to complex features such as email builders, automation systems, and dynamic dashboards—focusing on performance, clean UI/UX, and maintainable code.</span>
           </p>
